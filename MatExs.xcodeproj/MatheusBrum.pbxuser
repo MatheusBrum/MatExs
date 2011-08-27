@@ -1,0 +1,221 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* MatExsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 639}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 614}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MatExs */ = {
+		activeExec = 0;
+		executables = (
+			84C14FEC108A3D94004BA37D /* MatExs */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MatExsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {778, 635}}";
+			sepNavSelRange = "{488, 0}";
+			sepNavVisRange = "{0, 1251}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MatExsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 1820}}";
+			sepNavSelRange = "{2901, 39}";
+			sepNavVisRange = "{1242, 1186}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 84C14FEC108A3D94004BA37D /* MatExs */;
+		activeSDKPreference = iphoneos3.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MatExs */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MatExs */,
+		);
+		codeSenseManager = 84C14FF7108A3DB4004BA37D /* Code sense */;
+		executables = (
+			84C14FEC108A3D94004BA37D /* MatExs */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					600,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 277593565;
+			PBXWorkspaceStateSaveDate = 277593565;
+		};
+		perUserProjectItems = {
+			840AFF5C108BC1A6002D82A9 /* PlistBookmark */ = 840AFF5C108BC1A6002D82A9 /* PlistBookmark */;
+			840AFF5D108BC1A6002D82A9 /* PBXTextBookmark */ = 840AFF5D108BC1A6002D82A9 /* PBXTextBookmark */;
+			840AFF5E108BC1A6002D82A9 /* PBXTextBookmark */ = 840AFF5E108BC1A6002D82A9 /* PBXTextBookmark */;
+			840AFF5F108BC1A6002D82A9 /* PBXTextBookmark */ = 840AFF5F108BC1A6002D82A9 /* PBXTextBookmark */;
+			84C15174108A64A1004BA37D /* PBXTextBookmark */ = 84C15174108A64A1004BA37D /* PBXTextBookmark */;
+			84C15176108A64A1004BA37D /* PBXTextBookmark */ = 84C15176108A64A1004BA37D /* PBXTextBookmark */;
+			84C15178108A64A1004BA37D /* PBXTextBookmark */ = 84C15178108A64A1004BA37D /* PBXTextBookmark */;
+			84C151C2108A6CA2004BA37D /* PBXBookmark */ = 84C151C2108A6CA2004BA37D /* PBXBookmark */;
+			84C151C3108A6CA2004BA37D /* PBXBookmark */ = 84C151C3108A6CA2004BA37D /* PBXBookmark */;
+		};
+		sourceControlManager = 84C14FF6108A3DB4004BA37D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	840AFF5C108BC1A6002D82A9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MatExs-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/MatheusBrum/Desktop/MatExs/MatExs-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	840AFF5D108BC1A6002D82A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MatExsViewController.h */;
+		name = "MatExsViewController.h: 19";
+		rLen = 0;
+		rLoc = 488;
+		rType = 0;
+		vrLen = 1251;
+		vrLoc = 0;
+	};
+	840AFF5E108BC1A6002D82A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MatExsViewController.m */;
+		name = "MatExsViewController.m: 39";
+		rLen = 0;
+		rLoc = 889;
+		rType = 0;
+		vrLen = 1049;
+		vrLoc = 386;
+	};
+	840AFF5F108BC1A6002D82A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MatExsViewController.m */;
+		name = "MatExsViewController.m: 118";
+		rLen = 39;
+		rLoc = 2901;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 1242;
+	};
+	84C14FEC108A3D94004BA37D /* MatExs */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MatExs;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	84C14FF6108A3DB4004BA37D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	84C14FF7108A3DB4004BA37D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	84C15174108A64A1004BA37D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84C15175108A64A1004BA37D /* ComFrasesViewController.m */;
+		name = "ComFrasesViewController.m: 27";
+		rLen = 5;
+		rLoc = 554;
+		rType = 0;
+		vrLen = 1329;
+		vrLoc = 0;
+	};
+	84C15175108A64A1004BA37D /* ComFrasesViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = ComFrasesViewController.m;
+		path = "/Users/MatheusBrum/Desktop/Developer/Bem sucedidos/iComparacoes1/ComFrasesViewController.m";
+		sourceTree = "<absolute>";
+	};
+	84C15176108A64A1004BA37D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84C15177108A64A1004BA37D /* QuickdrawAPI.h */;
+		name = "QuickdrawAPI.h: 2253";
+		rLen = 10;
+		rLoc = 66961;
+		rType = 0;
+		vrLen = 1654;
+		vrLoc = 66159;
+	};
+	84C15177108A64A1004BA37D /* QuickdrawAPI.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = QuickdrawAPI.h;
+		path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/Headers/QuickdrawAPI.h;
+		sourceTree = "<absolute>";
+	};
+	84C15178108A64A1004BA37D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MatExsAppDelegate.m */;
+		name = "MatExsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	84C151C2108A6CA2004BA37D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84C151BB108A6BE7004BA37D /* back9.png */;
+	};
+	84C151C3108A6CA2004BA37D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 84C151BD108A6C88004BA37D /* icon.png */;
+	};
+}

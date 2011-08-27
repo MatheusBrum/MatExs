@@ -1,0 +1,313 @@
+TMatExs
+v7
+r0
+t277507407.135541
+cCheck dependencies
+cProcessInfoPlistFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/Info.plist MatExs-Info.plist
+cCompileXIB /Users/MatheusBrum/Desktop/MatExs/MainWindow.xib
+cCompileXIB /Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib
+cCpResource build/Debug-iphonesimulator/MatExs.app/back9.png back9.png
+cCpResource build/Debug-iphonesimulator/MatExs.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/MatExs.app/Default.png Default.png
+cProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-etorchevhtacaxdqcdzcngkintnn/MatExs_Prefix.pch.gch MatExs_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/MatExs/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsAppDelegate.o /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsViewController.o /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs normal i386
+cGenerateDSYMFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app.dSYM /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs
+cTouch /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004AAC665500000000000000EE
+t1252812373
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.h
+c000000004ADA061300000000000001DA
+t1255802387
+s474
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m
+c000000004ADA06130000000000000266
+t1255802387
+s614
+i"MatExsAppDelegate.h"
+i"MatExsViewController.h"
+
+N/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.h
+c000000004ADA2D1C00000000000004E3
+t1255812380
+s1251
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m
+c000000004ADA31D70000000000000DEB
+t1255813591
+s3563
+i"MatExsViewController.h"
+
+N/Users/MatheusBrum/Desktop/MatExs/Default.png
+c000000004ADA35B8000000000001B07B
+t1255814584
+s110715
+
+N/Users/MatheusBrum/Desktop/MatExs/MainWindow.xib
+c000000004ADA06140000000000002443
+t1255802388
+s9283
+
+N/Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib
+c000000004ADA3530000000000000E6A5
+t1255814448
+s59045
+
+N/Users/MatheusBrum/Desktop/MatExs/MatExs_Prefix.pch
+c000000004ADA061400000000000000B5
+t1255802388
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/MatExs/back9.png
+c000000004A77D6C3000000000001BF2B
+t1249367747
+s114475
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app
+t1255814607
+s340
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app.dSYM
+t1255813592
+s102
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/Default.png
+t1255814607
+s110715
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/Info.plist
+t1255814487
+s595
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MainWindow.nib
+t1255802580
+s1102
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs
+t1255813592
+s27660
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExsViewController.nib
+t1255814453
+s6112
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/PkgInfo
+t1255814487
+s8
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/back9.png
+t1255814434
+s114475
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/icon.png
+t1255814434
+s2267
+
+N/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExs.LinkFileList
+c000000004ADA06D40000000000000176
+t1255802580
+s374
+
+N/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsAppDelegate.o
+t1255812382
+s38884
+
+N/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsViewController.o
+t1255813592
+s50676
+
+N/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/main.o
+t1255802581
+s5932
+
+N/Users/MatheusBrum/Desktop/MatExs/icon.png
+c000000004ADA34E500000000000008DB
+t1255814373
+s2267
+
+N/Users/MatheusBrum/Desktop/MatExs/main.m
+c000000004ADA06140000000000000169
+t1255802388
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-etorchevhtacaxdqcdzcngkintnn/MatExs_Prefix.pch.gch
+t1255802581
+s13034960
+
+NMatExs-Info.plist
+c000000004ADA3557000000000000038D
+t1255814487
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies277507407#277507407#0(0"0(0#1#0"2416090432#0"0#
+
+CCompileC build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsAppDelegate.o /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277505182.689185
+e277505182.752888
+r1
+xCompileC
+xbuild/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsAppDelegate.o
+x/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m277505182#277505182#0(0"0(0#0#61"/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m2416090432#1816"    cd /Users/MatheusBrum/Desktop/MatExs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-generated-files.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-project-headers.hmap -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-etorchevhtacaxdqcdzcngkintnn/MatExs_Prefix.pch -c /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m -o /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsAppDelegate.o0#
+
+CCompileC build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsViewController.o /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277506391.869097
+e277506392.053294
+r1
+xCompileC
+xbuild/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsViewController.o
+x/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m277506391#277506392#0(0"0(0#0#64"/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m2416090432#1822"    cd /Users/MatheusBrum/Desktop/MatExs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-generated-files.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-project-headers.hmap -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-etorchevhtacaxdqcdzcngkintnn/MatExs_Prefix.pch -c /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m -o /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExsViewController.o0#
+
+CCompileC build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/main.o /Users/MatheusBrum/Desktop/MatExs/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s277495381.269836
+e277495381.488365
+r1
+xCompileC
+xbuild/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/main.o
+x/Users/MatheusBrum/Desktop/MatExs/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/MatheusBrum/Desktop/MatExs/main.m277495381#277495381#0(0"0(0#0#40"/Users/MatheusBrum/Desktop/MatExs/main.m2416090432#1782"    cd /Users/MatheusBrum/Desktop/MatExs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-generated-files.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-project-headers.hmap -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-etorchevhtacaxdqcdzcngkintnn/MatExs_Prefix.pch -c /Users/MatheusBrum/Desktop/MatExs/main.m -o /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/MatExs/MainWindow.xib
+s277495380.182389
+e277495380.531410
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/MatExs/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib277495380#277495380#0(0"0(0#0#48"/Users/MatheusBrum/Desktop/MatExs/MainWindow.xib2416090432#464"    cd /Users/MatheusBrum/Desktop/MatExs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MainWindow.nib /Users/MatheusBrum/Desktop/MatExs/MainWindow.xib0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib
+s277507252.668837
+e277507253.200238
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib
+lSLF07#2@35"CompileXIB MatExsViewController.xib277507252#277507253#0(0"0(0#0#58"/Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib2416090432#484"    cd /Users/MatheusBrum/Desktop/MatExs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExsViewController.nib /Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/MatExs.app/Default.png Default.png
+s277507407.112957
+e277507407.132645
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatExs.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png277507407#277507407#0(0"0(0#0#45"/Users/MatheusBrum/Desktop/MatExs/Default.png2416090432#439"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/MatheusBrum/Desktop/MatExs/Default.png /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app0#
+
+CCpResource build/Debug-iphonesimulator/MatExs.app/back9.png back9.png
+s277507234.325510
+e277507234.401335
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatExs.app/back9.png
+xback9.png
+lSLF07#2@14"Copy back9.png277507234#277507234#0(0"0(0#0#43"/Users/MatheusBrum/Desktop/MatExs/back9.png2416090432#437"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/MatheusBrum/Desktop/MatExs/back9.png /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app0#
+
+CCpResource build/Debug-iphonesimulator/MatExs.app/icon.png icon.png
+s277507234.326215
+e277507234.399997
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatExs.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png277507234#277507234#0(0"0(0#0#42"/Users/MatheusBrum/Desktop/MatExs/icon.png2416090432#436"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/MatheusBrum/Desktop/MatExs/icon.png /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app0#
+
+CGenerateDSYMFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app.dSYM /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs
+s277506392.070389
+e277506392.083426
+r1
+xGenerateDSYMFile
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app.dSYM
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/MatExs.app.dSYM build/Debug-iphonesimulator/MatExs.app/MatExs277506392#277506392#0(0"0(0#0#79"/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs2416090432#365"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs -o /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app.dSYM0#
+
+CLd /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs normal i386
+s277506392.053382
+e277506392.070294
+r1
+xLd
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs
+xnormal
+xi386
+lSLF07#2@84"Link /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs277506392#277506392#0(0"0(0#0#0"2416090432#832"    cd /Users/MatheusBrum/Desktop/MatExs    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator -filelist /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/Objects-normal/i386/MatExs.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/MatExs0#
+
+CProcessInfoPlistFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/Info.plist MatExs-Info.plist
+s277507287.840572
+e277507287.844577
+r1
+xProcessInfoPlistFile
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/Info.plist
+xMatExs-Info.plist
+lSLF07#2@25"Process MatExs-Info.plist277507287#277507287#0(0"0(0#0#51"/Users/MatheusBrum/Desktop/MatExs/MatExs-Info.plist2416090432#461"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MatExs-Info.plist -genpkginfo /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app/Info.plist0#
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-etorchevhtacaxdqcdzcngkintnn/MatExs_Prefix.pch.gch MatExs_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277495380.619256
+e277495381.269723
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-etorchevhtacaxdqcdzcngkintnn/MatExs_Prefix.pch.gch
+xMatExs_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MatExs_Prefix.pch277495380#277495381#0(0"0(0#0#51"/Users/MatheusBrum/Desktop/MatExs/MatExs_Prefix.pch2416090432#1680"    cd /Users/MatheusBrum/Desktop/MatExs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-generated-files.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/MatExs-project-headers.hmap -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator -I/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/include -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/DerivedSources/i386 -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphonesimulator/MatExs.build/DerivedSources -c /Users/MatheusBrum/Desktop/MatExs/MatExs_Prefix.pch -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-etorchevhtacaxdqcdzcngkintnn/MatExs_Prefix.pch.gch0#
+
+CTouch /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app
+s277507407.133130
+e277507407.135516
+r1
+xTouch
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app
+lSLF07#2@78"Touch /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app277507407#277507407#0(0"0(0#0#0"2416090432#267"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphonesimulator/MatExs.app0#
+

@@ -1,0 +1,380 @@
+TMatExs
+v7
+r0
+t277507451.558493
+cCheck dependencies
+cCpResource build/Debug-iphoneos/MatExs.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Info.plist MatExs-Info.plist
+cCompileXIB /Users/MatheusBrum/Desktop/MatExs/MainWindow.xib
+cCompileXIB /Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib
+cCopyPNGFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/back9.png back9.png
+cCopyPNGFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/icon.png icon.png
+cCopyPNGFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Default.png Default.png
+cProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-gezzesgebalvxggflaxjglkracwd/MatExs_Prefix.pch.gch MatExs_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/main.o /Users/MatheusBrum/Desktop/MatExs/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsAppDelegate.o /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsViewController.o /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs normal armv6
+cGenerateDSYMFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app.dSYM /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs
+cProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/embedded.mobileprovision
+cTouch /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs.xcent
+cCodeSign /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk
+c000000004AD63B4B0000000000000110
+t1255553867
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+c000000004A767D3000000000000000DD
+t1249279280
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+c000000004A767D3000000000000001E5
+t1249279280
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A82198D00000000005F4900
+t1250040205
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A76566F0000000000501370
+t1249269359
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7656460000000000001355
+t1249269318
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E9C0000000000000788
+t1249668764
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6FEF0000000001B3F450
+t1249669103
+s28570704
+
+N/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.h
+c000000004ADA061300000000000001DA
+t1255802387
+s474
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m
+c000000004ADA06130000000000000266
+t1255802387
+s614
+i"MatExsAppDelegate.h"
+i"MatExsViewController.h"
+
+N/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.h
+c000000004ADA2D1C00000000000004E3
+t1255812380
+s1251
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m
+c000000004ADA31D70000000000000DEB
+t1255813591
+s3563
+i"MatExsViewController.h"
+
+N/Users/MatheusBrum/Desktop/MatExs/Default.png
+c000000004ADA35B8000000000001B07B
+t1255814584
+s110715
+
+N/Users/MatheusBrum/Desktop/MatExs/MainWindow.xib
+c000000004ADA06140000000000002443
+t1255802388
+s9283
+
+N/Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib
+c000000004ADA3530000000000000E6A5
+t1255814448
+s59045
+
+N/Users/MatheusBrum/Desktop/MatExs/MatExs_Prefix.pch
+c000000004ADA061400000000000000B5
+t1255802388
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/MatExs/back9.png
+c000000004A77D6C3000000000001BF2B
+t1249367747
+s114475
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app
+t1255814651
+s476
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app.dSYM
+t1255813611
+s102
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Default.png
+t1255814651
+s79993
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Info.plist
+t1255814648
+s657
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MainWindow.nib
+t1255811375
+s1102
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs
+t1255813611
+s31280
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExsViewController.nib
+t1255814650
+s6117
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/PkgInfo
+t1255814648
+s8
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/ResourceRules.plist
+t1255811375
+s485
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/back9.png
+t1255814650
+s67189
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/embedded.mobileprovision
+t1255811376
+s7182
+
+N/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/icon.png
+t1255814650
+s2161
+
+N/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs.xcent
+t1255814651
+s319
+
+N/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExs.LinkFileList
+c000000004ADA292E0000000000000164
+t1255811374
+s356
+
+N/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsAppDelegate.o
+t1255812900
+s41328
+
+N/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsViewController.o
+t1255813611
+s58652
+
+N/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/main.o
+t1255811376
+s6532
+
+N/Users/MatheusBrum/Desktop/MatExs/icon.png
+c000000004ADA34E500000000000008DB
+t1255814373
+s2267
+
+N/Users/MatheusBrum/Desktop/MatExs/main.m
+c000000004ADA06140000000000000169
+t1255802388
+s361
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision
+c000000004AB80B3A0000000000001C0E
+t1253575482
+s7182
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-gezzesgebalvxggflaxjglkracwd/MatExs_Prefix.pch.gch
+t1255811376
+s7876792
+
+NMatExs-Info.plist
+c000000004ADA3557000000000000038D
+t1255814487
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies277507448#277507448#0(0"0(0#1#0"2416090432#0"0#
+
+CCodeSign /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app
+s277507451.275707
+e277507451.558459
+r1
+xCodeSign
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app
+o/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app: replacing invalid existing signature
+lSLF07#2@40"CodeSign build/Debug-iphoneos/MatExs.app277507451#277507451#0(104"/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app: replacing invalid existing signature0(0#0#65"/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app2416090432#627"    cd /Users/MatheusBrum/Desktop/MatExs    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Matheus Faber Brum (UGYC6P4A9V)" --resource-rules=/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/ResourceRules.plist --entitlements /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs.xcent /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app0#
+
+CCompileC build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsAppDelegate.o /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s277505700.024833
+e277505700.078472
+r1
+xCompileC
+xbuild/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsAppDelegate.o
+x/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m277505700#277505700#0(0"0(0#0#61"/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m2416090432#1683"    cd /Users/MatheusBrum/Desktop/MatExs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-generated-files.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-project-headers.hmap -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-gezzesgebalvxggflaxjglkracwd/MatExs_Prefix.pch -c /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsAppDelegate.m -o /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsAppDelegate.o0#
+
+CCompileC build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsViewController.o /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s277506411.810062
+e277506411.923972
+r1
+xCompileC
+xbuild/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsViewController.o
+x/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m277506411#277506411#0(0"0(0#0#64"/Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m2416090432#1689"    cd /Users/MatheusBrum/Desktop/MatExs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-generated-files.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-project-headers.hmap -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-gezzesgebalvxggflaxjglkracwd/MatExs_Prefix.pch -c /Users/MatheusBrum/Desktop/MatExs/Classes/MatExsViewController.m -o /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExsViewController.o0#
+
+CCompileC build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/main.o /Users/MatheusBrum/Desktop/MatExs/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s277504176.356470
+e277504176.469721
+r1
+xCompileC
+xbuild/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/main.o
+x/Users/MatheusBrum/Desktop/MatExs/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/MatheusBrum/Desktop/MatExs/main.m277504176#277504176#0(0"0(0#0#40"/Users/MatheusBrum/Desktop/MatExs/main.m2416090432#1649"    cd /Users/MatheusBrum/Desktop/MatExs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-generated-files.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-project-headers.hmap -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/DerivedSources -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-gezzesgebalvxggflaxjglkracwd/MatExs_Prefix.pch -c /Users/MatheusBrum/Desktop/MatExs/main.m -o /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/MatExs/MainWindow.xib
+s277504175.014935
+e277504175.318810
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/MatExs/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib277504175#277504175#0(0"0(0#0#48"/Users/MatheusBrum/Desktop/MatExs/MainWindow.xib2416090432#450"    cd /Users/MatheusBrum/Desktop/MatExs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MainWindow.nib /Users/MatheusBrum/Desktop/MatExs/MainWindow.xib0#
+
+CCompileXIB /Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib
+s277507448.955289
+e277507450.621980
+r1
+xCompileXIB
+x/Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib
+lSLF07#2@35"CompileXIB MatExsViewController.xib277507448#277507450#0(0"0(0#0#58"/Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib2416090432#470"    cd /Users/MatheusBrum/Desktop/MatExs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExsViewController.nib /Users/MatheusBrum/Desktop/MatExs/MatExsViewController.xib0#
+
+CCopyPNGFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Default.png Default.png
+s277507450.392145
+e277507451.222948
+r1
+xCopyPNGFile
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Default.png
+xDefault.png
+lSLF07#2@67"CopyPNGFile build/Debug-iphoneos/MatExs.app/Default.png Default.png277507450#277507451#0(0"0(0#0#45"/Users/MatheusBrum/Desktop/MatExs/Default.png2416090432#546"    cd /Users/MatheusBrum/Desktop/MatExs    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/MatheusBrum/Desktop/MatExs/Default.png /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Default.png0#
+
+CCopyPNGFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/back9.png back9.png
+s277507448.955987
+e277507450.337658
+r1
+xCopyPNGFile
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/back9.png
+xback9.png
+lSLF07#2@63"CopyPNGFile build/Debug-iphoneos/MatExs.app/back9.png back9.png277507448#277507450#0(0"0(0#0#43"/Users/MatheusBrum/Desktop/MatExs/back9.png2416090432#542"    cd /Users/MatheusBrum/Desktop/MatExs    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/MatheusBrum/Desktop/MatExs/back9.png /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/back9.png0#
+
+CCopyPNGFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/icon.png icon.png
+s277507450.337744
+e277507450.392062
+r1
+xCopyPNGFile
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/icon.png
+xicon.png
+lSLF07#2@61"CopyPNGFile build/Debug-iphoneos/MatExs.app/icon.png icon.png277507450#277507450#0(0"0(0#0#42"/Users/MatheusBrum/Desktop/MatExs/icon.png2416090432#540"    cd /Users/MatheusBrum/Desktop/MatExs    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/MatheusBrum/Desktop/MatExs/icon.png /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/icon.png0#
+
+CCpResource build/Debug-iphoneos/MatExs.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+s277504174.903383
+e277504175.014844
+r1
+xCpResource
+xbuild/Debug-iphoneos/MatExs.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist277504174#277504175#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist2416090432#469"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/ResourceRules.plist /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app0#
+
+CGenerateDSYMFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app.dSYM /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs
+s277506411.946737
+e277506411.962479
+r1
+xGenerateDSYMFile
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app.dSYM
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs
+lSLF07#2@92"GenerateDSYMFile build/Debug-iphoneos/MatExs.app.dSYM build/Debug-iphoneos/MatExs.app/MatExs277506411#277506411#0(0"0(0#0#72"/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs2416090432#344"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs -o /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app.dSYM0#
+
+CLd /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs normal armv6
+s277506411.924052
+e277506411.946646
+r1
+xLd
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs
+xnormal
+xarmv6
+lSLF07#2@77"Link /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs277506411#277506411#0(0"0(0#0#0"2416090432#859"    cd /Users/MatheusBrum/Desktop/MatExs    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -L/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos -filelist /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/Objects-normal/armv6/MatExs.LinkFileList -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/MatExs0#
+
+CProcessInfoPlistFile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Info.plist MatExs-Info.plist
+s277507448.899441
+e277507448.955148
+r1
+xProcessInfoPlistFile
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Info.plist
+xMatExs-Info.plist
+lSLF07#2@25"Process MatExs-Info.plist277507448#277507448#0(0"0(0#0#51"/Users/MatheusBrum/Desktop/MatExs/MatExs-Info.plist2416090432#538"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MatExs-Info.plist -genpkginfo /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/ResourceRules.plist -o /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/Info.plist0#
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-gezzesgebalvxggflaxjglkracwd/MatExs_Prefix.pch.gch MatExs_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s277504175.542897
+e277504176.356375
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-gezzesgebalvxggflaxjglkracwd/MatExs_Prefix.pch.gch
+xMatExs_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MatExs_Prefix.pch277504175#277504176#0(0"0(0#0#51"/Users/MatheusBrum/Desktop/MatExs/MatExs_Prefix.pch2416090432#1553"    cd /Users/MatheusBrum/Desktop/MatExs    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1 -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-generated-files.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-own-target-headers.hmap -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-all-target-headers.hmap -iquote /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs-project-headers.hmap -F/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos -I/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/include -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/DerivedSources/armv6 -I/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/DerivedSources -c /Users/MatheusBrum/Desktop/MatExs/MatExs_Prefix.pch -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatExs_Prefix-gezzesgebalvxggflaxjglkracwd/MatExs_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/embedded.mobileprovision
+s277504176.725015
+e277504176.745562
+r1
+xProcessProductPackaging
+x/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" build/Debug-iphoneos/MatExs.app/embedded.mobileprovision277504176#277504176#0(0"0(0#0#90"/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/embedded.mobileprovision2416090432#418"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/MatheusBrum/Library/MobileDevice/Provisioning Profiles/9E0B7780-55C7-43B0-94B2-2793752E0848.mobileprovision" -o /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs.xcent
+s277507451.226090
+e277507451.275612
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist
+x/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs.xcent
+lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs.xcent277507451#277507451#0(0"0(0#0#93"/Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs.xcent2416090432#419"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/MatheusBrum/Desktop/MatExs/build/MatExs.build/Debug-iphoneos/MatExs.build/MatExs.xcent0#
+
+CTouch /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app
+s277507451.223598
+e277507451.226012
+r1
+xTouch
+x/Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app
+lSLF07#2@71"Touch /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app277507451#277507451#0(0"0(0#0#0"2416090432#253"    cd /Users/MatheusBrum/Desktop/MatExs    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/MatheusBrum/Desktop/MatExs/build/Debug-iphoneos/MatExs.app0#
+
